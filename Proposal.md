@@ -52,3 +52,5 @@ Proposed data transmission protocol: HTTP
 <br>
 
 ## 5.0 Dashboard
+
+![](dashboard.jpeg)
