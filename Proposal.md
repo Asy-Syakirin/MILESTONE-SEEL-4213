@@ -53,4 +53,6 @@ Proposed data transmission protocol: HTTP
 
 ## 5.0 Dashboard
 
-![](dashboard.jpeg)
+![dashboard](https://github.com/Asy-Syakirin/stage2/assets/129646759/ff1203ab-e28f-46bd-b701-fbdd6a86baac)
+
+
