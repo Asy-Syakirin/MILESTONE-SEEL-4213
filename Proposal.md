@@ -33,6 +33,7 @@ The current weather reporting systems are either limited in their coverage or pr
 
 In order to overcome these issues, we develop a weather reporting system using IoT. This system uses two types of sensors which are DHT11 sensor for temperature and humidity and rain drop sensor where it will send the data to the dashboard for the user to get the current reading.
 
+![](SYSTEM.jpeg)
 <br>
 
 ## 3.0 Sensors
