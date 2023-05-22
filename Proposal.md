@@ -1,0 +1,53 @@
+# Weather Reporting System
+
+Group: Graceful Griffin
+
+Members:
+- Muhammad Abdul Salam Bin Razak
+- Muhammad Arif Iskandar Bin Abd Wahadi
+- Muhammad Asy-Syakirin Bin Norhisham
+
+<br>
+
+## Table of Contents
+
+[1.0 Problem Statement](#10-problem-statement)
+      
+[2.0 System Architecture](#20-system-architecture)
+
+[3.0 Sensors](#30-sensors)
+
+[4.0 Cloud Platform](#40-cloud-platform)
+
+[5.0 Dashboard](#50-dashboard)
+
+<br>
+
+## 1.0 Problem Statement
+
+The current weather reporting systems are either limited in their coverage or provide delayed information, which makes it difficult for individuals to make informed decisions regarding outdoor activities, crop management, transportation, and emergency response. The system should be able to collect and analyze weather data from multiple sensors and sources, and present it in an easily understandable format. 
+
+<br>
+
+## 2.0 System Architecture
+
+In order to overcome these issues, we develop a weather reporting system using IoT. This system uses two types of sensors which are DHT11 sensor for temperature and humidity and rain drop sensor where it will send the data to the dashboard for the user to get the current reading.
+
+<br>
+
+## 3.0 Sensors
+
+Sensors and devices used in this project:
+- NodeMCU ESP8266
+- DHT11 
+- Rain Drop sensor
+
+Proposed data transmission protocol: HTTP
+
+<br>
+
+## 4.0 Cloud Platform
+
+<br>
+
+## 5.0 Dashboard
