@@ -34,6 +34,8 @@ The current weather reporting systems are either limited in their coverage or pr
 In order to overcome these issues, we develop a weather reporting system using IoT. This system uses two types of sensors which are DHT11 sensor for temperature and humidity and rain drop sensor where it will send the data to the dashboard for the user to get the current reading.
 
 ![](SYSTEM.jpeg)
+Figure 2.1: System Architecture
+
 <br>
 
 ## 3.0 Sensors
@@ -45,6 +47,9 @@ Sensors and devices used in this project:
 
 Proposed data transmission protocol: HTTP
 
+![](sensors.png)
+Figure 3.1: Wiring connections
+
 <br>
 
 ## 4.0 Cloud Platform
@@ -54,5 +59,5 @@ Proposed data transmission protocol: HTTP
 ## 5.0 Dashboard
 
 ![dashboard](https://github.com/Asy-Syakirin/stage2/assets/129646759/ff1203ab-e28f-46bd-b701-fbdd6a86baac)
-
+Figure 5.1: Sketching of dashboard appearance
 
