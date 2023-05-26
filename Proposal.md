@@ -56,7 +56,7 @@ Figure 3.1: Wiring connections
 
 ## 4.0 Cloud Platform
 
-Link to How to deploy Flask app to PythonAnywhere 
+Link to How to deploy Flask app to PythonAnywhere [here](https://youtu.be/yZY-izd_qI4).
 
 <br>
 
