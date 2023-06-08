@@ -1,4 +1,4 @@
-# SEEL 4213 Stage 2
+# MILESTONE SEEL 4213
 
 ## Project Proposal
 
